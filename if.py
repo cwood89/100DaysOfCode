@@ -16,4 +16,16 @@ if is_male and is_tall:
 elif is_male and not (is_tall):
     print("You are a short male")
 else:
-    print("Yor are not a male")
+    print("You are not a male")
+
+
+def max_num(n1, n2, n3):
+    if n1 is >= n2 and n1 >= n3:
+        return n1
+    elif n2 >= n1 and n2 >= n3:
+        return n2
+    else:
+        return n3
+
+
+print(max_num(18, 15, 9))
