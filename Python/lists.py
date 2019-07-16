@@ -23,3 +23,19 @@ friends.extend(lucky_numbers)  # adds another list to the end of the first list
 # tuples
 coordnates = (4, 5)  # tuples are the same as lists or arrays but are imutable
 places = [(1, 2), (3, 4), (5, 6)]  # list of tuples
+
+# two dimensional lists
+number_grid = [
+    [1, 2, 3],
+    [4, 5, 6],
+    [7, 8, 9],
+    [0]
+]
+
+print(number_grid[0][0])  # prints 1
+print(number_grid[2][1])  # prints 8
+
+# nested loops
+for row in number_grid:
+    for col in row:
+        print(col)
