@@ -57,3 +57,9 @@ Starting off with a 4 hour beginners Python course I found on YouTube by Free Co
   
   Learning the command line will save me tons of time in my day to day life. It also unlocks the true power of the computer.
 
+- Day 10:
+  Today I learned about modules in Python. Modules are files that contain code that can be imported and used in your files.
+
+  NumPy is as external module I installed using pip.
+
+  Pip is a package manager used for installing external modules.

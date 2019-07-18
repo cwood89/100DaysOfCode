@@ -1,10 +1,10 @@
-Day 9
+Day 10
 .
-Today is not python related but I brushed up on some terminal commands.
+Today I learned about modules in Python. Modules are files that contain code that can be imported and used in your own files.
 .
-Learning the command line will save me tons of time in my day to day life. It also unlocks the true power of the computer.
+NumPy is an external module I installed using pip. Pip is a package manager used for installing external modules.
 .
-I'm using git bash as my terminal. What's everyones terminal of choice?
+Python comes with a ton of built in modules but there are even more external modules written by other developers.
 .
 .
 .
