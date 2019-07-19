@@ -1,14 +1,14 @@
-Day 10
+Day 11
 .
-Today I learned about modules in Python. Modules are files that contain code that can be imported and used in your own files.
+Today I learned about classes and objects in Python.
 .
-NumPy is an external module I installed using pip. Pip is a package manager used for installing external modules.
+Classes give a lot of versitility to programming. They define the shape or structure of an object.
 .
-Python comes with a ton of built in modules but there are even more external modules written by other developers.
+Objects take of the attributes of a class but they contain actual data.
 .
 .
 .
-#100daysofcode #programming #programmer #programmers #coding #coder #coders #python #javascript #softwaredeveloper #computerscience #softwareengineer #softwareengineering #html #css #webdevelopment #webdeveloper #developer #softwaredevelopment #computer #tech #follow #programmerlife #pythonprogramming #react #commandline
+#100daysofcode #programming #programmer #programmers #coding #coder #coders #python #javascript #softwaredeveloper #computerscience #softwareengineer #softwareengineering #html #css #webdevelopment #webdeveloper #developer #softwaredevelopment #computer #tech #follow #programmerlife #pythonprogramming #react 
 
 https://carbon.now.sh
 

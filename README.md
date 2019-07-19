@@ -63,3 +63,11 @@ Starting off with a 4 hour beginners Python course I found on YouTube by Free Co
   NumPy is as external module I installed using pip.
 
   Pip is a package manager used for installing external modules.
+
+- Day 11:
+  Today I learned about classes and objects in Python.
+
+  Classes give a lot of versitility to programming. They define the shape or structure of an object.
+
+  Objects take of the attributes of a class but they contain actual data.
+  
