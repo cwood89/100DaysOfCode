@@ -1,14 +1,14 @@
-Day 11
+Day 12 & 13
 .
-Today I learned about classes and objects in Python.
+I decided to take codewars for a spin and practice my problem solving.
 .
-Classes give a lot of versitility to programming. They define the shape or structure of an object.
+This problem helped me learn some string methods like the count method. Had I known this method, my xo function could have been alot shorter.
 .
-Objects take of the attributes of a class but they contain actual data.
+The count method takes in a parameter such as a letter and returns how many times it occurs in the string it was called upon.
 .
 .
 .
-#100daysofcode #programming #programmer #programmers #coding #coder #coders #python #javascript #softwaredeveloper #computerscience #softwareengineer #softwareengineering #html #css #webdevelopment #webdeveloper #developer #softwaredevelopment #computer #tech #follow #programmerlife #pythonprogramming #react 
+#100daysofcode #programming #programmer #programmers #coding #coder #coders #python #javascript #softwaredeveloper #computerscience #softwareengineer #softwareengineering #html #css #webdevelopment #webdeveloper #developer #softwaredevelopment #computer #tech #follow #programmerlife #pythonprogramming #react #codewars
 
 https://carbon.now.sh
 

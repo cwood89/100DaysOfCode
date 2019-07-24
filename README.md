@@ -70,4 +70,10 @@ Starting off with a 4 hour beginners Python course I found on YouTube by Free Co
   Classes give a lot of versitility to programming. They define the shape or structure of an object.
 
   Objects take of the attributes of a class but they contain actual data.
-  
+
+- Day 12 & 13:
+  I decided to take codewars for a spin and practice my problem solving.
+
+  This problem helped me learn some string methods like the count method. Had I known this method, my xo function could have been alot shorter.
+
+  The count method takes in a parameter such as a letter and returns how many times it occurs in the string it was called upon.
