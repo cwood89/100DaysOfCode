@@ -1,10 +1,10 @@
-Day 12 & 13
+Day 14
 .
-I decided to take codewars for a spin and practice my problem solving.
+Decided to take on another problem from code wars. This one was inspired by Project Euler.
 .
-This problem helped me learn some string methods like the count method. Had I known this method, my xo function could have been alot shorter.
+The key to this function is the modulus "%" operator, it returns the remainder after the division of two numbers.
 .
-The count method takes in a parameter such as a letter and returns how many times it occurs in the string it was called upon.
+Again, I could have written this function in one line.
 .
 .
 .

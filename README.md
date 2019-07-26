@@ -77,3 +77,10 @@ Starting off with a 4 hour beginners Python course I found on YouTube by Free Co
   This problem helped me learn some string methods like the count method. Had I known this method, my xo function could have been alot shorter.
 
   The count method takes in a parameter such as a letter and returns how many times it occurs in the string it was called upon.
+
+- Day 14:
+  Decided to take on another problem from code wars. This one was inspired by Project Euler.
+
+  The key to this function is the modulus "%" operator, it returns the remainder after the division of two numbers.
+
+  Again, I could have written this function in one line.
