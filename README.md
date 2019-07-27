@@ -84,3 +84,11 @@ Starting off with a 4 hour beginners Python course I found on YouTube by Free Co
   The key to this function is the modulus "%" operator, it returns the remainder after the division of two numbers.
 
   Again, I could have written this function in one line.
+
+- Day 15 & 16:
+  Spent the last couple days working on a code wars challenge I wasn't confident I could solve.
+
+  What helped me here was just breaking the problem down into smaller more manageable steps. It's a process most programmers use so solve problems.
+
+  Hopefully as I become a better programmer my solutions will be more efficient.
+
