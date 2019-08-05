@@ -1,14 +1,16 @@
-Day 14 & 15
+Day 17
 .
-Spent the last couple days working on a code wars challenge I wasn't confident I could solve.
+I've been stumped these last few days on a hacker rank coding challenge. Getting stuck definitely has a way of killing your confidence so I'm focusing on the positive. Even though I can't solve a problem doesn't mean I'm not learning. Heres a couple of things I've learned during my attempts.
 .
-What helped me here was just breaking the problem down into smaller more manageable steps. It's a process most programmers use so solve problems.
+I've learned about lambda functions whichare annomous functions. When used the the list methods, map, filter, and reduce, it allows you to perform a function on each item in the list and return a new array.
 .
-Hopefully as I become a better programmer my solutions will be more efficient.
+I've also learned about list comprehension, which almost does the same thing but it returns a new array based on a conditional argument.
+.
+I think its time to start a project and see if that sparks my passion again.
 .
 .
 .
-#100daysofcode #programming #programmer #programmers #coding #coder #coders #python #javascript #softwaredeveloper #computerscience #softwareengineer #softwareengineering #html #css #webdevelopment #webdeveloper #developer #softwaredevelopment #computer #tech #follow #programmerlife #pythonprogramming #react #codewars
+#100daysofcode #programming #programmer #programmers #coding #coder #coders #python #javascript #softwaredeveloper #computerscience #softwareengineer #softwareengineering #html #css #webdevelopment #webdeveloper #developer #softwaredevelopment #computer #tech #follow #programmerlife #pythonprogramming #react
 
 https://carbon.now.sh
 

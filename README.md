@@ -92,3 +92,11 @@ Starting off with a 4 hour beginners Python course I found on YouTube by Free Co
 
   Hopefully as I become a better programmer my solutions will be more efficient.
 
+- Day 17:
+  I've been stumped these last few days on a hacker rank coding challenge. Getting stuck definitely has a way of killing your confidence so I'm focusing on the positive. Even though I can't solve a problem doesn't mean I'm not learning. Heres a couple of things I've learned in my attempts.
+
+  I've learned about lambda functions whichare annomous functions. When used the the list methods, map, filter, and reduce, it allows you to perform a function on each item in the list and return a new array.
+
+  I've also learned about list comprehension, which almost does the same thing but it returns a new array based on a conditional arguent.
+
+  I think its time to start a project and see if that sparks my passion again.
