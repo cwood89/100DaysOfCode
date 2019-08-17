@@ -100,3 +100,10 @@ Starting off with a 4 hour beginners Python course I found on YouTube by Free Co
   I've also learned about list comprehension, which almost does the same thing but it returns a new array based on a conditional arguent.
 
   I think its time to start a project and see if that sparks my passion again.
+
+Day 1:
+  Took a few day off to decompress, it's tough fitting in coding with everything else life throws at you. Because of that I'm starting over at day one.
+
+  Decided to start working on automating my instagram posts. I did some research and learned about Selenium. Selenium is a program that allows users to programmatically use the browser. Mainly it is used for testing but it's perfect for what I need.
+
+  The only issue I had was when I ran Selenium it would open up the browser window so, the first thing figured out was how to run the web driver headless, or without the window.
